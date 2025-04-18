@@ -20,4 +20,10 @@
         android:title=""
         app:showAsAction="ifRoom"/>
 
+    <item
+        android:id="@+id/mVideo"
+        android:icon="@drawable/baseline_video"
+        android:title=""
+        app:showAsAction="ifRoom"/>
+
 </menu>
