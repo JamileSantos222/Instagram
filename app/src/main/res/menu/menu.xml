@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/mCasinha"
+        android:icon="@drawable/baseline_casinha"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mLupinha"
+        android:icon="@drawable/baseline_lupinha"
+        android:title=""
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/mMais"
+        android:icon="@drawable/baseline_adicionar"
+        android:title=""
+        app:showAsAction="ifRoom"/>
+
+</menu>
